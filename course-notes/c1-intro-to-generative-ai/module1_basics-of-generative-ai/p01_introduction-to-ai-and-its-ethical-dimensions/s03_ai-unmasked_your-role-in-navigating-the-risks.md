@@ -1,4 +1,3 @@
- 
 # AI Unmasked: Your Role in Navigating the Risks
 
 Artificial Intelligence (AI) is a double-edged sword. While it holds the promise of revolutionizing industries and improving lives, it also introduces significant ethical, legal, and societal risks. This article explores the challenges posed by generative AI and highlights actionable strategies to navigate these risks responsibly.
@@ -17,7 +16,7 @@ Generative AI is transforming various sectors, but its rapid adoption raises cri
 - **Healthcare:** Who is accountable for AI-driven misdiagnoses? The integration of AI in healthcare demands robust accountability frameworks.
 - **Media and Art:** Deepfakes and AI-generated content blur the line between reality and fiction, challenging trust in media and creative industries.
 
-### Economic Disruption
+### Industry/Economic Disruption
 
 - **Job Displacement:** As AI automates tasks, knowledge workers may need to adapt to new roles or risk obsolescence. The question of whether AI will replace jobs or create new opportunities remains a pressing concern.
 - **Skill Gaps:** Workers must acquire new skills to keep pace with AI-driven changes in industries.
@@ -26,7 +25,7 @@ Generative AI is transforming various sectors, but its rapid adoption raises cri
 
 - **Energy Consumption:** Training and running AI models require significant computational resources, leading to higher energy use and carbon emissions.
 
-### Legal and Regulatory Challenges
+### Politics and security | Legal and Regulatory Challenges
 
 - **Ownership and Accountability:** Who owns AI-generated content? How should data be protected? These questions demand clear legal frameworks.
 - **National Security:** The misuse of AI, such as deepfakes or AI weapons, poses risks to democracy and global stability.
@@ -55,3 +54,14 @@ As stewards of technology, we all have a role to play in shaping AI’s impact. 
 ## Reflection
 
 AI’s potential is vast, but so are its dangers. To harness this transformative technology responsibly, we must engage in dialogue, compromise, and constant adaptation. The future of AI depends on our collective efforts to ensure it serves humanity positively. As Mouse from *The Matrix* said, “To deny our own impulses is to deny the very thing that makes us human.” Let’s embrace our agency and shape AI for the better.
+
+## Questions for Reflection
+
+What is the most effective strategy to mitigate ethical risks in AI?
+
+- [ ] Develop AI applications without any guidelines.
+- [ ] Only use AI for non-critical tasks.
+- [ ] Implement rigorous risk assessments and governance frameworks.
+- [ ] Avoid using AI technologies altogether.
+
+> Implementing comprehensive risk assessments and robust governance frameworks is essential to manage and mitigate ethical risks effectively.
