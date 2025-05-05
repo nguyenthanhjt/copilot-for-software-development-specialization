@@ -1,0 +1,202 @@
+# Section 4 - Reading: An Interview With Michael de la Maza
+
+Do you ever wonder how you would react if you were informed at work one day that your services are no longer required and your position has been replaced by artificial intelligence? You’re not the only one. As AI advances, many professionals are anxious about the future and how AI will impact them.
+
+Even professors find themselves in a unique position to teach future professionals “outdated” skills, which might get replaced with artificial intelligence soon. Let’s learn what one of the leading names in the industry, Michael de la Maza, has to say about this.
+
+In this interview, we will seek to understand the professional view of the risks of AI, the steps taken to mitigate the risks, and how leaders in the industry, like Michael de la Maza, view the future of the workforce given the productivity increases.
+
+Michael is a respected data scientist with a PhD in Machine learning from MIT, a Professor of Business Analytics and Machine Learning at Hult, and a bestselling author on Amazon.
+
+## Job Security in the Wake of AI: The Impact of AI on Education and Society
+
+### Precis
+
+In an interview with Professor de la Maza, we asked him a few direct questions about the inevitable changes AI will have on the future of corporations and business operations.
+
+We asked him how he uses generative AI in his teachings, how he perceives the risks and benefits of AI, as it is evolving, and what his thoughts are about a future with AI and humanity.
+
+Following is a summary of Professor de la Maza’s responses to our questions. If you want to read his detailed answers, download the attached PDF document for his detailed insights.
+
+### A Summary of the Interview
+
+Professor de la Maza sees AI as a powerful tool that can improve or harm human lives: Professor de la Maza believes that AI is the most powerful technology ever created by humans, and can be used for both positive and negative reasons. He says that AI can help people improve their skills, do more work, and solve problems, but it can also be used for war, spreading misinformation, and most importantly job displacement. He explains that societal implications, as a result of using AI, need to be addressed adequately.
+
+He allows his students to use generative AI but also teaches them to be critical and responsible: Professor de la Maza says that students are encouraged to use generative AI in their classes and challenges, but he also expects them to double-check and validate their AI's output, find and correct the mistakes, and take full responsibility for the work they submit. He says that generative AI is a low-quality source of information and frequently “gets it wrong.”
+
+Professor de la Maza believes that it is likely that humans will not be able to control AI or benefit from it in the long term: He expects that using AI will become completely out of control and used by only a small number of people to advance their personal interests. He believes that, eventually, humans will be unwilling to cooperate or align with AI and that AI can become a superintelligence that treats humans like chickens. He does not predict a positive future for humanity with AI.
+
+He thinks that learning is a social activity that requires human interaction: Professor de la Maza view is that learning is a social activity that fundamentally requires human interaction. Learning involves human-to-human contact, physical interaction, and emotional connections. For him, a humanoid robot or AI cannot replace the social aspect of learning, and questions the need for human learning in the face of superintelligence.
+
+### The Key Takeaways
+
+The following are key takeaways from the interview:
+
+- Professor Michael de la Maza allows students to use generative AI but teaches critical and responsible use:
+  - Students can use generative AI but must double-check and correct its output.
+  - Generative AI is considered a low-quality source prone to frequent errors.
+- AI as a powerful tool with potential benefits and harms:
+  - AI can improve skills, increase productivity, and solve problems.
+  - AI poses risks like warfare, misinformation, and job displacement.
+  - The societal implications of AI need to be addressed.
+- Skepticism about long-term human control and benefit from AI:
+  - AI may become uncontrollable and serve the interests of a few.
+  - Potential for AI to become a superintelligence treating humans insignificantly.
+  - Doubts about a positive future for humanity with AI.
+- Learning as a social activity requiring human interaction:
+  - Learning involves human contact, physical interaction, and emotional connection.
+  - AI or humanoid robots cannot replace the social aspect of learning.
+  - Question the need for human learning in the face of superintelligence.
+
+### The Full Interview
+
+Read Professor Michael de la Maza’s full interview.
+
+```text
+Job Security in the Wake of AI: The
+Impact of AI on Education and Society
+The Interview With Professor Michael de la Maza
+In an interview with Professor Michael de la Maza, we asked him how he uses
+generative AI in his teachings, how he sees the risks and benefits of AI as it is
+evolving, and what his thoughts are about a future with AI and humanity.
+We also asked Professor de la Maza to elaborate on how he is reshaping his
+classroom with the use of AI, and what impact he believes it has on the next
+generation of experts.
+We wanted to know what he thinks are the dangers of relying on generative AI, and
+what actions he has taken to mitigate such risks for both himself and his students.
+Professor de la Maza was also asked to share his insights on how he perceives the
+changes in industries and productivity, how he views the future of work evolving, and
+what strategies he could suggest to protect ourselves and our jobs from the impact
+of AI.
+Question 1
+Professor de la Maza, is there a place for AI in your teaching, and how do you
+measure its educational value?
+Professor Michael de la Maza answers:
+“I have taught two courses: Business Intelligence and an Introduction to Machine
+Learning. In both we let our students use generative AI as part of their learning. I have
+also organized a business challenge, which is a one-week intensive event, where a real
+business presents a case to the students and they compete for the best solution. We
+even recommend using GenAI for that event because we know it will be part of the
+future work environment. And employers are not interested in the sources of the
+answers, whether they are Gen AI, an abacus, or a human. They just want the work
+done well. So, most of our students apply GenAI to their work.”
+Question 2
+How do you handle AI errors?
+Professor Michael de la Maza elaborates:
+“Approximately 80% of the students recognize that Gen AI has made serious mistakes
+in helping them with their problem sets. If they submit a solution where the Gen AI has
+made a mistake, they are asked to cite it and indicate what the problem is and what
+the response was, and then they're also asked to take full responsibility for their
+answers. They're not allowed to point the finger at GenAI and say that GenAI made a
+mistake.
+And then I should say that GenAI makes mistakes all the time. For example, the new
+ChatGP, which was just released, just gave me an answer in which it provided four links
+to books. All four of the links were incorrect! It just hallucinated these book titles and
+these authors and these links to Amazon. None of which existed.
+I have sent a Gen AI Errors project proposal to the research lab director. The following
+step is that an ethics board will review it for approval.”
+Question 3
+Professor, how do you teach and expect your students to resolve AI errors?
+Professor Michael de la Maza responds:
+“I tell the students that GenAI is a low-quality source of information. And so they
+should double-check everything that the AI says and not just pass it on. They'll get
+some input from the AI, they'll double check it, they'll find its mistake, and then they
+need to correct it before they submit their answer, of course.”
+Question 4
+What do you think are the implications of GenAI for your students in the workforce?
+Where do you think the implications are for people in entry-level jobs?
+Professor Michael de la Maza suggests:
+“So, I think that there's a short term and a medium term. The short term is that AI is
+immensely exciting, and allows more people in many different jobs to do so much
+more at a higher level than they were previously able to do. It's also the case that AI
+helps people improve their weakest skills much quicker. What I see and what the data
+shows us, is that people who are in the bottom quartile in a particular skill, like writing,
+for example, see great improvements through the use of AI. They go from being
+bottom quartile to being top quartile instantly, which is great for students and people
+who have particular weaknesses.
+People then use AI to be a super assistant of sorts, to do for them what they are
+unable to do themselves. Now, over the medium term, the situation is much hazier
+because I expect all sorts of jobs, millions and millions, to disappear at a speed that
+we're not going to be able to adapt to. I expect therefore societal implications to that
+as this is not something that anyone, at an individual level, can truly prepare for. It has
+to be addressed more adequately at the societal level.”
+Question 5
+Professor de la Maza, what in your opinion, do you view as the basic risks in our
+current use of generative AI, and where do you think GenAI will lead us as a
+society?
+Professor Michael de la Maza says:
+“Generative AI is the most powerful tool human beings have ever created. It is such a
+powerful technology and the worst is that AI can be used in very negative ways and
+can be used for warfare. It has the capability to spread misinformation and will almost
+certainly be used for that.
+One possible future, in my opinion, is that we end up in an AI-like war and end up full of
+misinformation, which will result in a declining situation for almost everyone in the
+world. And even simple things like the changes in job security, which will take place
+leaving millions of people unemployed, is not something we as a society may be able
+to handle proactively, leading to the disadvantage of many people.”
+Question 6
+Professor, you've told us about the wonderful part of AI. On the contrary, you
+succinctly summarized our possible “doomsday” scenario. What do we do about it?
+Professor Michael de la Maza explains:
+“I don't think that we're going to be able to do anything about it. I teach at Hult, which is
+an international school. I typically have students from 30 different nationalities in one
+classroom. And when I ask them about the possibilities of international cooperation,
+they point out that it's unlikely that we would ever become aligned with AI, because as
+societies we aren’t even aligned with each other.
+And so while it is true that what happens to AI and how it develops is up to us, it's
+extremely possible that we will not even be able to do anything about it. I expect AI to
+be completely out of control, and to be used by a few people to advance their own
+agendas, and not to the benefit of all of humanity, and that's one possibility.
+Another possibility is that we end up with an AI superintelligence. The downside to this
+is an AI superintelligence, that is to us as we are to chickens. It'll treat us like we're
+chickens, so we may very well become something like super pets. The super AI
+hypothesis is that AI is in charge.”
+Question 7
+Professor, you just attended an MIT teaching conference. MIT professors pride
+themselves on teaching undergraduates, it is a true meritocracy. What are your
+takeaways?
+Professor Michael de la Maza elaborates:
+“I don’t speak for MIT. What I've seen and heard from several MIT professors is that
+they're generally positive about AI. They see some risks, but they believe they can be
+managed, and the results are not going to be devastating, rather, they are focusing on
+two things.
+The first is learning as a social activity. Learning as a social activity fundamentally
+requires humans and there's no such thing as a social activity within AI. Therefore, the
+social interaction between students and the professor interacting with the students is,
+to state it candidly, a fundamentally human action. This social interaction requires
+human-to-human contact, and thus AI cannot replace human contact.
+The second is focusing on what I call metacognitive skills or very high-level critical
+thinking skills. The AI of today cannot do that. Have you heard the phrase
+transformational human creativity? Well, this is not something that GenAI is capable of
+right now, making this type of thinking and orchestration a focus area.
+What AI does do and MIT recognizes this, is to pivot away from the traditional way of
+doing assessments. It does not change what you teach, and you don’t change the
+learning objectives, it only changes how you conduct assessment. For example, a
+multiple choice question, which MIT has never done, but certainly can do now because
+all that’s required is providing the multiple choice question for the generative AI.
+Therefore, what the student learns and the instructional material being taught stays
+the same, but how a learner is being assessed for mastery of learning has changed,
+and that’s what is important.
+This, in my opinion, speaks fundamentally about the function of the human brain, and
+how the human brain processes input from other humans as opposed to something
+else. In a sense, when comparing the results from a human brain and a machine,
+identical input for both does not return the exact same response. In addition, there is
+something so fundamentally different about human beings compared to robots.
+Robots aren’t going to need a lunch break, right, or would feel an urge to discuss what
+was just covered in a lecture. There truly is something about being human and being
+able to smell or feel or touch, being able to use our senses, which really matters. For
+me, that is the bigger question to ask and answer, which I think is an interesting
+perspective in the short term.
+A very important question to consider is if you have a superintelligence, why do
+humans need to learn it all? And for me, this is where my thinking diverges from the
+ideas and theories of MIT and others. We know a little bit about the wiring in our brains
+and we understand that memory is social. We go into a classroom, then go out to the
+mess hall, and all these social interactions reinforce our learning connections.
+And so, these are all activities that a humanoid robot doesn't need to be able to do, and
+at best they can fake them. In contrast, human beings have more talent, and more
+specifically, the talent for learning and adapting to unfamiliar situations. The key
+question now becomes whether or not humans need to learn in such situations. The
+answer is yes, humans need to learn, we have to or we will vegetate. And by doing so,
+we can try to balance our fears about the downsides of AI with its ability to improve
+our lives for the better.”
+```
