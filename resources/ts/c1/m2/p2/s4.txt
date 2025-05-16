@@ -1,0 +1,363 @@
+WEBVTT
+
+1
+00:00:07.832 --> 00:00:12.028
+Imagine you could write high-quality
+code faster than ever before,
+
+2
+00:00:12.028 --> 00:00:14.835
+with fewer errors and
+less repetitive work.
+
+3
+00:00:14.835 --> 00:00:18.392
+What if an AI assistant could
+anticipate your coding needs,
+
+4
+00:00:18.392 --> 00:00:22.377
+suggest improvements, and
+even write complex functions for you?
+
+5
+00:00:22.377 --> 00:00:25.707
+Welcome to the future of
+development with generative AI.
+
+6
+00:00:25.707 --> 00:00:30.821
+In this video, we'll explore how
+generative AI, particularly large language
+
+7
+00:00:30.821 --> 00:00:36.327
+model LLM chatbots like Microsoft Copilot,
+can revolutionize your coding process.
+
+8
+00:00:36.327 --> 00:00:41.007
+We'll dive into four key areas: code completion,
+debugging,
+
+9
+00:00:41.007 --> 00:00:44.815
+code comprehension, and code translation.
+
+10
+00:00:44.815 --> 00:00:49.448
+We'll demonstrate how LLM chatbots
+can streamline your coding process,
+
+11
+00:00:49.448 --> 00:00:52.475
+ensure code quality,
+and boost productivity.
+
+12
+00:00:52.475 --> 00:00:57.381
+Through practical examples, you'll see how
+these AI tools can become an invaluable
+
+13
+00:00:57.381 --> 00:00:59.502
+part of your development workflow.
+
+14
+00:00:59.502 --> 00:01:04.392
+Lets start by understanding what an LLM
+chatbot is in the context of coding.
+
+15
+00:01:04.392 --> 00:01:09.352
+Think of it as an incredibly knowledgeable
+coding buddy, always ready to assist you.
+
+16
+00:01:09.352 --> 00:01:14.588
+While you can use almost any LLM chatbot
+to assist you with coding capabilities,
+
+17
+00:01:14.588 --> 00:01:18.669
+for the purpose of this video,
+we'll use Microsoft copilot chat.
+
+18
+00:01:18.669 --> 00:01:21.619
+I'm going to start by
+opening my web browser and
+
+19
+00:01:21.619 --> 00:01:24.364
+navigating to copilot.microsoft.com.
+
+20
+00:01:24.364 --> 00:01:29.478
+One of the most straightforward uses
+of the LLM chatbot is code completion.
+
+21
+00:01:29.478 --> 00:01:33.810
+Let's say you're working on a Python
+function to check if a number is prime.
+
+22
+00:01:33.810 --> 00:01:38.334
+Instead of writing it from scratch,
+you can simply prompt the chatbot,
+
+23
+00:01:38.334 --> 00:01:42.245
+"complete the following Python
+function def_is prime," and
+
+24
+00:01:42.245 --> 00:01:46.167
+the chatbot will then generate
+a complete function for you.
+
+25
+00:01:46.167 --> 00:01:51.351
+But it doesn't stop there. You can ask
+it to explain the code, "explain each
+
+26
+00:01:51.351 --> 00:01:57.274
+line in the is_prime function, and give an
+example of how it handles a specific case."
+
+27
+00:01:57.274 --> 00:02:01.370
+In this way, you're not just getting
+code snippets, but also learning and
+
+28
+00:02:01.370 --> 00:02:03.486
+understanding the logic behind them.
+
+29
+00:02:03.486 --> 00:02:06.422
+Let's take it a step further.
+
+30
+00:02:06.422 --> 00:02:09.682
+You might want to enhance this
+function with error handling.
+
+31
+00:02:09.682 --> 00:02:13.430
+"Enhance the prime-checking function
+to include error handling for
+
+32
+00:02:13.430 --> 00:02:14.726
+non-integer inputs."
+
+33
+00:02:14.726 --> 00:02:19.063
+The chatbot will modify the function,
+adding robust error handling.
+
+34
+00:02:19.063 --> 00:02:23.846
+This showcases how AI can help you write
+more resilient code from the get-go.
+
+35
+00:02:30.372 --> 00:02:34.160
+Now lets explore how AI
+can assist with debugging.
+
+36
+00:02:34.160 --> 00:02:37.434
+Suppose you have a function
+that's not working as expected.
+
+37
+00:02:37.434 --> 00:02:42.287
+You can ask the chatbot, "debug this python
+function that's supposed to calculate
+
+38
+00:02:42.287 --> 00:02:46.996
+the factorial of a number but is returning
+incorrect results for some inputs,"
+
+39
+00:02:46.996 --> 00:02:49.159
+then paste your problematic code.
+
+40
+00:02:49.159 --> 00:02:55.723
+The AI will analyze this code, identify
+potential issues, and suggest fixes.
+
+41
+00:02:55.723 --> 00:02:59.271
+It might point out logical
+errors, off-by-one errors, or
+
+42
+00:02:59.271 --> 00:03:02.063
+edge cases that you haven't considered.
+
+43
+00:03:02.063 --> 00:03:05.650
+What's more,
+you could ask it to explain its reasoning.
+
+44
+00:03:05.650 --> 00:03:08.770
+Explain why the original
+function was staling and
+
+45
+00:03:08.770 --> 00:03:11.822
+how the suggested changes
+should fix the issue.
+
+46
+00:03:11.822 --> 00:03:14.641
+This not only solves
+your immediate problem,
+
+47
+00:03:14.641 --> 00:03:18.337
+but also helps you understand and
+learn from your mistakes.
+
+48
+00:03:18.337 --> 00:03:22.752
+LLM chatbots Excel at helping you
+understand complex code. Let's say you've
+
+49
+00:03:22.752 --> 00:03:27.166
+encountered a piece of Python code
+using advanced list comprehensions and
+
+50
+00:03:27.166 --> 00:03:29.350
+you're not quite sure what it does.
+
+51
+00:03:29.350 --> 00:03:32.826
+You can ask, "explain this Rust
+code in simple terms and
+
+52
+00:03:32.826 --> 00:03:34.961
+break down its functionality."
+
+53
+00:03:34.961 --> 00:03:38.960
+After pasting the code, the AI will
+provide a detailed explanation,
+
+54
+00:03:38.960 --> 00:03:42.708
+breaking down complex operations
+into understandable chunks.
+
+55
+00:03:42.708 --> 00:03:46.873
+This is particularly useful when
+you're working with legacy code or
+
+56
+00:03:46.873 --> 00:03:48.609
+diving into new libraries.
+
+57
+00:03:48.609 --> 00:03:54.359
+Finally, let's look at how AI
+can help with code translation.
+
+58
+00:03:54.359 --> 00:03:58.276
+Suppose you have a JavaScript function
+that you need to port to Python.
+
+59
+00:03:58.276 --> 00:04:02.881
+You can simply ask, "translate this
+JavaScript function to Python."
+
+60
+00:04:02.881 --> 00:04:06.707
+The chatbot will provide a Python
+equivalent of your JavaScript code, but
+
+61
+00:04:06.707 --> 00:04:07.627
+dont stop there.
+
+62
+00:04:07.627 --> 00:04:11.929
+You can follow up with, "explain the key
+differences between the JavaScript and
+
+63
+00:04:11.929 --> 00:04:13.462
+Python implementations."
+
+64
+00:04:13.462 --> 00:04:15.682
+This not only gives you
+the translated code, but
+
+65
+00:04:15.682 --> 00:04:19.267
+helps you understand the nuances between
+different programming languages.
+
+66
+00:04:33.608 --> 00:04:38.557
+We've seen how LLM chatbots can assist
+with code completion, debugging,
+
+67
+00:04:38.557 --> 00:04:40.815
+comprehension, and translation.
+
+68
+00:04:40.815 --> 00:04:43.868
+These AI tools are not here
+to replace developers,
+
+69
+00:04:43.868 --> 00:04:46.069
+but to enhance their capabilities,
+
+70
+00:04:46.069 --> 00:04:50.401
+allowing them to focus on higher-
+level problem-solving and creativity.
+
+71
+00:04:50.401 --> 00:04:52.747
+As you continue your coding journey,
+
+72
+00:04:52.747 --> 00:04:55.837
+I encourage you to experiment
+with LLM chatbots.
+
+73
+00:04:55.837 --> 00:04:59.485
+Try different prompts,
+explore various use cases, and
+
+74
+00:04:59.485 --> 00:05:02.221
+see how they could fit into your workflow.
+
+75
+00:05:02.221 --> 00:05:07.181
+Remember, the key is to use these tools
+to enhance your skills, not replace them.
+
+76
+00:05:07.181 --> 00:05:07.681
+[MUSIC]
