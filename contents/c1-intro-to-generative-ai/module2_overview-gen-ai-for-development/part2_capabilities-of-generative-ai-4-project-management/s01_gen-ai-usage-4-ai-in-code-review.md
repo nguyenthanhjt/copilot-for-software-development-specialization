@@ -4,6 +4,40 @@
 
 Generative AI tools, such as GitHub Copilot, are transforming the way developers approach code reviews. These tools not only identify potential bugs but also suggest improvements to make code cleaner, more efficient, and maintainable. By automating repetitive tasks, AI allows developers to focus on innovation rather than troubleshooting.
 
+## AI and Code Review
+
+- Scan code bases for errors and vulnerabilites
+- Providing suggestions and automated fixes
+- Code analysis
+- Improving code quality
+- Learns from code repositories
+- Suggests ways to make code efficient and cleaner
+- Ensures high maintainability and scalability
+
+### Best Practices & Code quality
+
+- Generative AI can:
+  - Analyze codebase and generate insights on potential issues.
+  - Flag code that lead to maintenance issues.
+  - Detect potential performance bottlenecks.
+  - Offer suggestions for optimization.
+  - Provide automated code reviews.
+  - Generate test scenarios for bugs and performance issues.
+  - Review error-handling mechanisms.
+
+## Utilize Copilot
+
+1. Static code analysis for common issues.
+2. Machine learning for project's unique codebase.
+3. Predefined coding standards and best practices.
+
+## Make Use of AI Practices
+
+- Set up a standardized use of AI tools in your workflow.
+- Follow a strict outline for code.
+- Review the suggestions provided and incorporate them into your code.
+- Maintain a high standard of code qualityand performance over time.
+
 ## Key Concepts
 
 ### 1. Enhancing Code Quality
