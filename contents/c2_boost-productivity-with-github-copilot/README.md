@@ -1,0 +1,1 @@
+# Course 2: Boost Productivity with GitHub Copilot
