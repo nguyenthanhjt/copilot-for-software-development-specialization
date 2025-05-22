@@ -34,3 +34,5 @@ GitHub Copilot is a powerful tool that can assist you in generating code suggest
 ---
 
 By following these steps, you can effectively use GitHub Copilot to create basic code suggestions and improve your coding process. Remember, the key to getting the most out of Copilot is to provide clear and intentional context.
+
+> Remember, Copilot isn't about replacing your coding skills; it's about supercharging them.
