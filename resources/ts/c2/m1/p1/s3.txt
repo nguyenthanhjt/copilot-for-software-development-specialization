@@ -1,0 +1,49 @@
+Did you know that according to a recent Salesforce AI survey, over 60% of technology leaders express major concern over the ethical risks of AI technologies in their operations.
+This statistic not only highlights a growing awareness of these risks, but also reveals a significant call to action for each of us.
+Hi and welcome.
+I'm Rob Rubin.
+Today, we will explore the emerging risks posed by our modern day use of generative AI and how they might affect our daily tasks.
+By the end of this video, you will be able to identify the key ethical, legal, and societal risks associated with the use and implementation of generative AI, recognize your role in influencing the ethical use and implementation of AI within your organization, and apply strategies to mitigate these risks in real-world scenarios.
+In this video, we will explore the powerful, yet, potentially perilous world that is artificial intelligence.
+As this technology continues to integrate into every facet of our lives, it becomes imperative to not only understand it better, but also to steer its influence responsibly.
+We can recognize our agency in mitigating these risks by making informed decisions about the ethical use and implementation of AI in our organizations.
+First, let's deep dive into the different categories where AI is currently having a large impact.
+How GenAI affects societal factors like education, healthcare, social media? It is very possible that AI generated content can spread false or biased information, and it's also not a simple matter to promote AI systems that are fair, diverse, and ethical.
+In education, will it improve tutoring, replace teachers or reduce social interaction as we have seen with other AI applications? In healthcare, who will be accountable for any form of misdiagnosis to patients? Or how will it impact art, photography, literature, music? We have seen a recent phenomenon of deep fakes or digitally altered multimedia content, where experts admit it is getting harder to tell them apart from reality.
+Given GenAI's capabilities to create content faster and easier, it will likely change how some industries work.
+How can workers keep up with the new skills and the roles that GenAI requires? Many professors report students using GenAI tools to write papers, often without fully recognizing the revolutionary impact these tools already have on our lives.
+We are challenged with wondering if there is a need for new hires or replacing existing ones? If automation will take over the tasks of frontline knowledge workers, or if more people will lose their jobs as productivity increases.
+Will knowledge workers have to teach their AI assistants? Many also don't realize that sustaining AI requires a lot of power to train and run its models, and the GenAI data centers require higher energy use and carbon emissions from the computing resources to shift from an independent interest to a geopolitical one.
+Can content like deep fakes and fake news affect our democracies? Will AI weapons affect national security? Generative AI also creates tricky legal and regulatory questions such as who owns the output? How data must be protected, and who is accountable for the consequences? Who's accountable? As artificial intelligence weaves ever deeper into the fabric of our lives, an urgent question echoes louder with each headline grabbing algorithm, who should control this extraordinary power? Let's be clear, though.
+AI's potential is as vast as its dangers.
+It can unlock medical miracles and super charge industries, but it can also amplify existing biases, encroach on privacy, and disrupt entire economies.
+To wield this tool for good requires more than just technological geniuses.
+Some argue that AI like any technology should remain in the hands of its creators, the companies and engineers building it.
+They emphasize speed, efficiency, unhindered innovation, but can we trust profit motives alone to safeguard our rights and well being in AI-driven futures? Others cry out for heavy government regulation.
+They see AI as a runaway train, needing strict rules to prevent societal disaster, yet can slow moving bureaucracies truly keep pace with a relentless march of algorithms? The answer, I believe, lies in a collaborative model of governance.
+First, we need informed citizens.
+Let's invest heavily in AI literacy, not just for experts, but for everyone.
+This isn't just about coding.
+It's about critical thinking when presented with AI generated content or automated decisions.
+Second, businesses must step beyond self-interest.
+Ethical AI development requires transparency, accountability, and diverse teams to combat coded biases.
+Industrywide standards and external audits can help earn and maintain public trust.
+Third, governments must play a vital role.
+They should set clear guard rails to protect fundamental rights, address AI afflicted job displacement, and ensure equitable access to both the benefits of and design processes for AI systems.
+Finally, we need stronger international collaboration.
+AI transcends borders, so its governance must as well.
+Shared principles, information exchanges, and united front against malicious uses are vital as we tread this unchartered territory.
+The path ahead will not be an easy one.
+It demands dialogue, compromise, and constant adaptation.
+But let's not surrender this defining technology to unchecked corporate power or rigid bureaucracy.
+The future of AI should be shaped by all of us, an enlightened public, responsible innovators, wise governments, and a global community working together.
+The choice of who should govern AI will be dependent on the kind of world we build, so let's choose wisely.
+Now, what can you do you ask? I'll explain.
+Influencing ethical AI involves understanding its implications, promoting transparency, and advocating for fairness.
+This includes conducting rigorous risk assessments, implementing robust governance frameworks and ongoing monitoring to ensure compliance with ethical standards.
+Organizations that proactively address AI risks do not only foster trust among their stakeholders, but they also position themselves as leaders in ethical technology deployment.
+However, this commitment to drive innovation while safeguarding against the adverse impacts of AI technologies is not just the responsibility of some.
+It is the responsibility of all.
+Everyone has agency, and as long as they use it, they proactively influence the safe and ethical use of generative AI.
+Mouse, from The Matrix 1 said, "To deny our own impulses is to deny the very thing that makes us human." Remember that as stewards of technology, we mold its impact on the world, so let's make it a positive one.
+In this video, we've uncovered the critical role we can all play in navigating the ever evolving AI landscape by identifying risks, understanding our influence, and applying mitigation strategies, we both contribute to ethical AI practices, and propel organizations towards responsible innovation.

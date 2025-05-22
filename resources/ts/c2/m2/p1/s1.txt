@@ -1,0 +1,759 @@
+WEBVTT
+
+1
+00:00:07.080 --> 00:00:09.580
+How great would it be to have
+
+2
+00:00:09.580 --> 00:00:12.820
+a coding assistant that could
+anticipate your next move,
+
+3
+00:00:12.820 --> 00:00:14.840
+suggest a perfect code snippet,
+
+4
+00:00:14.840 --> 00:00:17.040
+and help you avoid
+common errors?
+
+5
+00:00:17.040 --> 00:00:20.715
+This is possible with
+various powerful AI tools,
+
+6
+00:00:20.715 --> 00:00:23.100
+specifically with generative AI
+
+7
+00:00:23.100 --> 00:00:24.740
+and large language models.
+
+8
+00:00:24.740 --> 00:00:26.300
+Artificial intelligence can be
+
+9
+00:00:26.300 --> 00:00:28.360
+utilized to improve and enhance
+
+10
+00:00:28.360 --> 00:00:30.640
+large or small-scale
+coding projects
+
+11
+00:00:30.640 --> 00:00:32.370
+with the ability to read,
+
+12
+00:00:32.370 --> 00:00:36.400
+fix, enhance, and complete
+the code that you desire.
+
+13
+00:00:36.400 --> 00:00:38.760
+In this video, we'll explore
+
+14
+00:00:38.760 --> 00:00:40.240
+various use cases for code
+
+15
+00:00:40.240 --> 00:00:42.340
+completion using generative AI.
+
+16
+00:00:42.340 --> 00:00:44.800
+You'll discover how
+these tools can help you
+
+17
+00:00:44.800 --> 00:00:47.300
+write code more efficiently
+and accurately,
+
+18
+00:00:47.300 --> 00:00:49.480
+ultimately boosting
+your productivity
+
+19
+00:00:49.480 --> 00:00:51.720
+and streamlining
+your coding tasks.
+
+20
+00:00:51.720 --> 00:00:54.090
+Generative AI tools like Copilot
+
+21
+00:00:54.090 --> 00:00:56.260
+or IntelliCode can
+provide suggestions
+
+22
+00:00:56.260 --> 00:00:58.080
+for entire lines or blocks of
+
+23
+00:00:58.080 --> 00:01:00.780
+code based on the context
+of what you're writing.
+
+24
+00:01:00.780 --> 00:01:03.940
+This capability of code
+completion is particularly useful
+
+25
+00:01:03.940 --> 00:01:06.040
+when dealing with
+repetitive coding tasks
+
+26
+00:01:06.040 --> 00:01:07.360
+or boilerplate code,
+
+27
+00:01:07.360 --> 00:01:10.465
+which means reusable code
+in a particular program.
+
+28
+00:01:10.465 --> 00:01:12.150
+For example, when you're
+
+29
+00:01:12.150 --> 00:01:14.270
+writing the same pattern
+of code repeatedly,
+
+30
+00:01:14.270 --> 00:01:17.225
+AI can predict and
+suggest the next piece,
+
+31
+00:01:17.225 --> 00:01:19.410
+saving you time and effort.
+
+32
+00:01:19.410 --> 00:01:22.910
+It works by recognizing the
+coding patterns as you type,
+
+33
+00:01:22.910 --> 00:01:26.050
+then offering suggestions
+for function bodies,
+
+34
+00:01:26.050 --> 00:01:28.670
+parameter names,
+and common logic.
+
+35
+00:01:28.670 --> 00:01:30.550
+You can accept these suggestions
+
+36
+00:01:30.550 --> 00:01:32.120
+with a single keystroke,
+
+37
+00:01:32.120 --> 00:01:35.430
+often completing entire
+blocks of code in seconds.
+
+38
+00:01:35.430 --> 00:01:37.470
+This saves time by reducing
+
+39
+00:01:37.470 --> 00:01:40.190
+typing, decreasing
+syntax errors,
+
+40
+00:01:40.190 --> 00:01:42.970
+maintaining consistency
+across your code base,
+
+41
+00:01:42.970 --> 00:01:44.790
+and allowing you to focus on
+
+42
+00:01:44.790 --> 00:01:46.990
+unique aspects of your code
+
+43
+00:01:46.990 --> 00:01:48.990
+rather than repetitive
+structures.
+
+44
+00:01:48.990 --> 00:01:52.190
+For beginners, this also
+serves as a learning tool by
+
+45
+00:01:52.190 --> 00:01:55.915
+suggesting best practices
+and common coding patterns.
+
+46
+00:01:55.915 --> 00:01:59.020
+Now, let's start by
+identifying a scenario
+
+47
+00:01:59.020 --> 00:02:02.200
+where generative AI can
+assist in code completion.
+
+48
+00:02:02.200 --> 00:02:05.260
+Imagine you're working on
+a web development project.
+
+49
+00:02:05.260 --> 00:02:07.980
+As you write HTML and CSS,
+
+50
+00:02:07.980 --> 00:02:10.220
+the AI tool can suggest tags,
+
+51
+00:02:10.220 --> 00:02:12.120
+attributes, and even styles
+
+52
+00:02:12.120 --> 00:02:14.270
+that fit your current context.
+
+53
+00:02:14.270 --> 00:02:16.580
+This doesn't just
+speed up the process,
+
+54
+00:02:16.580 --> 00:02:19.580
+but also reduces the
+likelihood of errors.
+
+55
+00:02:19.580 --> 00:02:21.750
+You simply start typing and
+
+56
+00:02:21.750 --> 00:02:24.225
+the AI offers relevant
+code completions,
+
+57
+00:02:24.225 --> 00:02:25.860
+allowing you to focus on
+
+58
+00:02:25.860 --> 00:02:29.020
+the higher level logic
+of your application.
+
+59
+00:02:29.020 --> 00:02:30.820
+It is important to remember
+
+60
+00:02:30.820 --> 00:02:32.920
+that AI is not always perfect.
+
+61
+00:02:32.920 --> 00:02:34.920
+In fact, you must make
+
+62
+00:02:34.920 --> 00:02:36.880
+sure that you understand
+the code that
+
+63
+00:02:36.880 --> 00:02:38.920
+the AI writes to ensure it
+
+64
+00:02:38.920 --> 00:02:41.730
+produces your desired
+output correctly.
+
+65
+00:02:41.730 --> 00:02:45.040
+While AI code completion
+can be incredibly helpful,
+
+66
+00:02:45.040 --> 00:02:48.980
+it has its limitations
+and may sometimes suggest
+
+67
+00:02:48.980 --> 00:02:51.850
+outdated or context
+inappropriate code
+
+68
+00:02:51.850 --> 00:02:53.200
+and could misunderstand
+
+69
+00:02:53.200 --> 00:02:55.660
+the specific requirements
+of your project or
+
+70
+00:02:55.660 --> 00:02:59.080
+even introduce subtle bugs
+that are hard to spot.
+
+71
+00:02:59.080 --> 00:03:01.980
+Additionally, AI
+might struggle with
+
+72
+00:03:01.980 --> 00:03:04.975
+highly specialized or
+cutting-edge programming tasks
+
+73
+00:03:04.975 --> 00:03:07.160
+where patterns are
+less established.
+
+74
+00:03:07.160 --> 00:03:09.540
+This is why you
+should always review
+
+75
+00:03:09.540 --> 00:03:12.040
+and test AI-generated
+code thoroughly
+
+76
+00:03:12.040 --> 00:03:14.000
+and be prepared to modify it
+
+77
+00:03:14.000 --> 00:03:17.285
+as needed to fit your
+specific use case.
+
+78
+00:03:17.285 --> 00:03:20.230
+Let's see how
+generative AI tools
+
+79
+00:03:20.230 --> 00:03:23.030
+are also able to streamline
+the coding process.
+
+80
+00:03:23.030 --> 00:03:26.190
+These tools analyze vast
+amounts of data from
+
+81
+00:03:26.190 --> 00:03:28.070
+existing code repositories to
+
+82
+00:03:28.070 --> 00:03:30.270
+suggest relevant code snippets,
+
+83
+00:03:30.270 --> 00:03:33.410
+functions, and even
+entire algorithms.
+
+84
+00:03:33.410 --> 00:03:35.870
+This functionality
+is invaluable for
+
+85
+00:03:35.870 --> 00:03:39.030
+increasing the speed and
+accuracy of writing code.
+
+86
+00:03:39.030 --> 00:03:42.550
+It also helps you avoid common
+pitfalls and ensures that
+
+87
+00:03:42.550 --> 00:03:46.860
+your code adheres to best
+practices. Consider this.
+
+88
+00:03:46.860 --> 00:03:50.345
+You're writing a function
+that sorts a list of items.
+
+89
+00:03:50.345 --> 00:03:52.760
+Instead of manually
+coding the algorithm,
+
+90
+00:03:52.760 --> 00:03:54.760
+you can rely on the AI to
+
+91
+00:03:54.760 --> 00:03:57.500
+suggest a tried and
+true sorting function.
+
+92
+00:03:57.500 --> 00:03:59.320
+This not only saves time,
+
+93
+00:03:59.320 --> 00:04:03.060
+but also leverages
+proven, efficient code.
+
+94
+00:04:03.060 --> 00:04:06.705
+The AI might even provide
+different sorting algorithms,
+
+95
+00:04:06.705 --> 00:04:10.200
+allowing you to choose the
+one that best fits your needs.
+
+96
+00:04:10.200 --> 00:04:12.720
+Some popular AI code
+completion tools
+
+97
+00:04:12.720 --> 00:04:15.400
+from Microsoft commonly
+used are the following.
+
+98
+00:04:15.400 --> 00:04:17.665
+First off, we have Copilot.
+
+99
+00:04:17.665 --> 00:04:20.640
+This tool provides
+real-time code suggestions
+
+100
+00:04:20.640 --> 00:04:24.325
+with various integrated
+development environments, or IDEs.
+
+101
+00:04:24.325 --> 00:04:27.575
+This is generally used for
+improving productivity.
+
+102
+00:04:27.575 --> 00:04:30.360
+Then we have Microsoft
+IntelliCode.
+
+103
+00:04:30.360 --> 00:04:32.790
+This tool uses machine
+learning to analyze
+
+104
+00:04:32.790 --> 00:04:35.610
+your code and suggest
+context-aware completions.
+
+105
+00:04:35.610 --> 00:04:37.850
+It's commonly used to complete
+
+106
+00:04:37.850 --> 00:04:40.230
+functions, provide
+code recommendations,
+
+107
+00:04:40.230 --> 00:04:42.250
+and enforce best practices,
+
+108
+00:04:42.250 --> 00:04:43.610
+helping developers write
+
+109
+00:04:43.610 --> 00:04:45.890
+more efficient and
+accurate code.
+
+110
+00:04:45.890 --> 00:04:47.730
+There are many other powerful
+
+111
+00:04:47.730 --> 00:04:49.670
+AI tools that are on the market,
+
+112
+00:04:49.670 --> 00:04:51.010
+and we suggest doing
+
+113
+00:04:51.010 --> 00:04:52.770
+personal research to determine
+
+114
+00:04:52.770 --> 00:04:54.795
+what suits your needs the best.
+
+115
+00:04:54.795 --> 00:04:58.070
+Beyond simple code
+completion, debugging,
+
+116
+00:04:58.070 --> 00:04:59.800
+and suggestions, AI is
+
+117
+00:04:59.800 --> 00:05:03.000
+capable of providing a
+starting place for ideas.
+
+118
+00:05:03.000 --> 00:05:05.640
+For instance, imagine
+you're thinking of building
+
+119
+00:05:05.640 --> 00:05:08.850
+an alarm clock app and
+don't know where to start.
+
+120
+00:05:08.850 --> 00:05:11.880
+By prompting an AI
+to help you begin,
+
+121
+00:05:11.880 --> 00:05:13.980
+it can give you a
+class hierarchy,
+
+122
+00:05:13.980 --> 00:05:17.840
+some helpful methods, a main
+class to call those methods,
+
+123
+00:05:17.840 --> 00:05:21.295
+and some unit tests to guide
+you in the right direction.
+
+124
+00:05:21.295 --> 00:05:24.450
+Finally, let's discuss
+the advantages of
+
+125
+00:05:24.450 --> 00:05:27.930
+incorporating generative AI
+into your coding workflow.
+
+126
+00:05:27.930 --> 00:05:29.810
+By using AI tools,
+
+127
+00:05:29.810 --> 00:05:31.570
+you can enhance
+your productivity
+
+128
+00:05:31.570 --> 00:05:33.750
+and efficiency significantly.
+
+129
+00:05:33.750 --> 00:05:36.170
+Generative AI also helps reduce
+
+130
+00:05:36.170 --> 00:05:38.870
+the cognitive load
+associated with coding.
+
+131
+00:05:38.870 --> 00:05:41.470
+Instead of worrying
+about syntax errors or
+
+132
+00:05:41.470 --> 00:05:44.560
+remembering the exact structure
+of a complex function,
+
+133
+00:05:44.560 --> 00:05:46.670
+you can rely on AI suggestions
+
+134
+00:05:46.670 --> 00:05:49.450
+and focus on the creative
+aspects of coding.
+
+135
+00:05:49.450 --> 00:05:51.530
+Integrating generative AI into
+
+136
+00:05:51.530 --> 00:05:53.950
+your coding routine
+allows you to transcend
+
+137
+00:05:53.950 --> 00:05:55.890
+traditional workflows
+and embrace
+
+138
+00:05:55.890 --> 00:05:58.050
+a more innovative
+and rapid approach
+
+139
+00:05:58.050 --> 00:05:59.570
+to software development.
+
+140
+00:05:59.570 --> 00:06:02.870
+AI tools are not just about
+completing lines of code,
+
+141
+00:06:02.870 --> 00:06:05.150
+but also about
+empowering you to tackle
+
+142
+00:06:05.150 --> 00:06:08.730
+complex challenges with
+creativity and efficiency.
+
+143
+00:06:08.730 --> 00:06:11.970
+With AI handling the
+routine aspects of coding,
+
+144
+00:06:11.970 --> 00:06:15.070
+you can devote more time
+to exploring new ideas,
+
+145
+00:06:15.070 --> 00:06:16.910
+optimizing your projects, and
+
+146
+00:06:16.910 --> 00:06:19.345
+pushing the boundaries
+of what's possible.
+
+147
+00:06:19.345 --> 00:06:22.520
+In this video, you learned
+that generative AI for
+
+148
+00:06:22.520 --> 00:06:25.505
+code completion offers
+numerous practical benefits.
+
+149
+00:06:25.505 --> 00:06:27.840
+It can assist in
+repetitive tasks,
+
+150
+00:06:27.840 --> 00:06:29.600
+streamline the coding process,
+
+151
+00:06:29.600 --> 00:06:32.200
+and significantly boost
+your productivity and
+
+152
+00:06:32.200 --> 00:06:33.700
+efficiency by providing
+
+153
+00:06:33.700 --> 00:06:36.200
+accurate and relevant
+code suggestions.
+
+154
+00:06:36.200 --> 00:06:38.080
+Now is the perfect moment to
+
+155
+00:06:38.080 --> 00:06:41.000
+incorporate AI into your
+development process.
+
+156
+00:06:41.000 --> 00:06:43.410
+Explore tools like Copilot and
+
+157
+00:06:43.410 --> 00:06:46.865
+Microsoft IntelliCode to
+streamline your coding process.
+
+158
+00:06:46.865 --> 00:06:49.190
+See how these
+AI-driven tools can
+
+159
+00:06:49.190 --> 00:06:52.010
+enhance your productivity
+and coding accuracy,
+
+160
+00:06:52.010 --> 00:06:55.470
+making your workflow
+smoother and more efficient.
+
+161
+00:06:55.470 --> 00:06:58.710
+Start integrating these
+tools today to accelerate
+
+162
+00:06:58.710 --> 00:07:00.710
+your development
+skills and discover
+
+163
+00:07:00.710 --> 00:07:03.830
+new possibilities in
+your coding journey.

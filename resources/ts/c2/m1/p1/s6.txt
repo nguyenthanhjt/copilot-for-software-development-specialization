@@ -1,0 +1,439 @@
+WEBVTT
+
+1
+00:00:07.160 --> 00:00:09.675
+Hi, and welcome back.
+
+2
+00:00:09.675 --> 00:00:11.620
+In this video, I'll
+take you through
+
+3
+00:00:11.620 --> 00:00:14.710
+the key features of GitHub
+Copilot inline chat,
+
+4
+00:00:14.710 --> 00:00:18.485
+and show you how to prompt
+inline to get suggestions.
+
+5
+00:00:18.485 --> 00:00:22.860
+Now, let's start using
+GitHub Copilot inline chat.
+
+6
+00:00:22.860 --> 00:00:24.920
+If you're following along,
+
+7
+00:00:24.920 --> 00:00:26.490
+let's open Lesson 1,
+
+8
+00:00:26.490 --> 00:00:28.425
+Video 4, problem,
+
+9
+00:00:28.425 --> 00:00:31.920
+addition, and the
+subtraction file.
+
+10
+00:00:31.920 --> 00:00:34.775
+Now let's close the panel.
+
+11
+00:00:34.775 --> 00:00:37.350
+Inline chat has a few advantages
+
+12
+00:00:37.350 --> 00:00:39.310
+over the traditional
+chat window.
+
+13
+00:00:39.310 --> 00:00:42.150
+You don't need to switch
+between the chat and the code.
+
+14
+00:00:42.150 --> 00:00:44.710
+The suggestions show
+up right in your code.
+
+15
+00:00:44.710 --> 00:00:48.070
+You can accept or reject
+those suggestions.
+
+16
+00:00:48.070 --> 00:00:49.570
+But like most things,
+
+17
+00:00:49.570 --> 00:00:53.150
+it depends on the use
+case and your workflow.
+
+18
+00:00:53.150 --> 00:00:55.190
+There are two ways that you can
+
+19
+00:00:55.190 --> 00:00:57.440
+open inline chat in VS Code.
+
+20
+00:00:57.440 --> 00:01:00.290
+You can right click
+the Copilot from
+
+21
+00:01:00.290 --> 00:01:04.290
+the menu and select inline chat,
+
+22
+00:01:05.330 --> 00:01:08.910
+or you can use a
+keyboard shortcut,
+
+23
+00:01:08.910 --> 00:01:11.370
+which is command i for Mac.
+
+24
+00:01:11.370 --> 00:01:14.770
+Notice how Copilot
+picked up on the error.
+
+25
+00:01:14.770 --> 00:01:17.180
+When I open the inline chat,
+
+26
+00:01:17.180 --> 00:01:20.840
+it prepopulated a prompt
+to fix the error,
+
+27
+00:01:20.840 --> 00:01:22.720
+which saves me time.
+
+28
+00:01:22.720 --> 00:01:24.650
+Another way that I
+can interact with
+
+29
+00:01:24.650 --> 00:01:27.660
+Copilot is by using the
+voice command here.
+
+30
+00:01:27.660 --> 00:01:29.620
+This may come in
+hand if you have
+
+31
+00:01:29.620 --> 00:01:32.645
+a need for it or if you
+just don't want to type.
+
+32
+00:01:32.645 --> 00:01:34.600
+Now it's time to
+fix the problem.
+
+33
+00:01:34.600 --> 00:01:36.830
+I'll just open inline
+chat with the shortcut,
+
+34
+00:01:36.830 --> 00:01:40.060
+hit "Enter", and
+there you have it.
+
+35
+00:01:40.060 --> 00:01:41.800
+The issue is now fixed.
+
+36
+00:01:41.800 --> 00:01:46.420
+I'm just going to quickly
+add an execution for domain,
+
+37
+00:01:46.420 --> 00:01:49.560
+and I'll just accept the
+suggestions and we're good.
+
+38
+00:01:49.560 --> 00:01:51.720
+Now let's save the file.
+
+39
+00:01:51.720 --> 00:01:54.680
+Let's move on to
+the addition file,
+
+40
+00:01:54.680 --> 00:01:56.315
+which also has an error.
+
+41
+00:01:56.315 --> 00:01:57.900
+Now, notice that when I open
+
+42
+00:01:57.900 --> 00:01:59.960
+the inline chat, there's
+no prompt there,
+
+43
+00:01:59.960 --> 00:02:01.120
+but if I hover over
+
+44
+00:02:01.120 --> 00:02:03.420
+the error and I open
+inline chat again,
+
+45
+00:02:03.420 --> 00:02:07.825
+now I can see a prepopulated
+prompt to fix this error.
+
+46
+00:02:07.825 --> 00:02:10.455
+Now let's just hit "Enter",
+
+47
+00:02:10.455 --> 00:02:12.960
+verify that does indeed
+solve the problem,
+
+48
+00:02:12.960 --> 00:02:15.435
+and click "Accept",
+and we're good.
+
+49
+00:02:15.435 --> 00:02:18.230
+Let me add the
+execution for domain,
+
+50
+00:02:18.230 --> 00:02:20.790
+which I'll just accept
+the suggestions here.
+
+51
+00:02:20.790 --> 00:02:23.910
+Great, now it should
+be executable.
+
+52
+00:02:23.910 --> 00:02:25.690
+Now I'll open the terminal
+
+53
+00:02:25.690 --> 00:02:28.325
+using the command
+backtick shortcut.
+
+54
+00:02:28.325 --> 00:02:31.740
+Now I'll create a new
+file here, queue.py,
+
+55
+00:02:31.740 --> 00:02:36.070
+and I'll open this file
+in the file editor.
+
+56
+00:02:36.550 --> 00:02:39.390
+Let me close the terminal.
+
+57
+00:02:39.390 --> 00:02:43.470
+Now I'll open inline
+chat with command i,
+
+58
+00:02:43.470 --> 00:02:50.380
+and I'll type write
+a queue in Python.
+
+59
+00:02:50.990 --> 00:02:53.685
+I'll just click "Accept",
+
+60
+00:02:53.685 --> 00:02:56.440
+and that's it, we have a queue.
+
+61
+00:02:57.080 --> 00:03:00.330
+Now I'll select the class,
+
+62
+00:03:00.330 --> 00:03:03.210
+open inline chat, and type,
+
+63
+00:03:03.210 --> 00:03:05.910
+improve the code according
+
+64
+00:03:05.910 --> 00:03:10.250
+to development best
+practices, and hit "Enter".
+
+65
+00:03:11.350 --> 00:03:16.310
+Now I have types in my
+code which does help.
+
+66
+00:03:17.030 --> 00:03:20.390
+Now select the code again,
+
+67
+00:03:20.390 --> 00:03:23.250
+open the inline chat,
+
+68
+00:03:23.250 --> 00:03:26.515
+and I'll type /doc
+and hit "Enter".
+
+69
+00:03:26.515 --> 00:03:30.795
+Now it generated a nice docu
+string style documentation,
+
+70
+00:03:30.795 --> 00:03:34.465
+and it also duplicated my
+imports which I'll just delete.
+
+71
+00:03:34.465 --> 00:03:38.060
+Now, arguably, the
+best feature out
+
+72
+00:03:38.060 --> 00:03:41.940
+of inline chat is the
+/test command, which
+
+73
+00:03:41.940 --> 00:03:45.100
+will generate an
+entirely new file
+
+74
+00:03:45.100 --> 00:03:47.850
+with unit tests on it,
+
+75
+00:03:47.850 --> 00:03:49.845
+As you can see, it generated
+
+76
+00:03:49.845 --> 00:03:51.960
+a couple of test
+cases here for us.
+
+77
+00:03:51.960 --> 00:03:56.560
+Let's hit "Create", and then
+close this inline chat.
+
+78
+00:03:56.560 --> 00:04:00.010
+Let's open the file, test queue.
+
+79
+00:04:00.010 --> 00:04:03.315
+You just wrote unit
+tests in blazing speed,
+
+80
+00:04:03.315 --> 00:04:05.535
+thanks to GitHub Copilot.
+
+81
+00:04:05.535 --> 00:04:08.985
+Now let's open the
+queue file again.
+
+82
+00:04:08.985 --> 00:04:11.415
+Open the inline chat,
+
+83
+00:04:11.415 --> 00:04:15.060
+and let's type /explain
+and hit "Enter".
+
+84
+00:04:15.060 --> 00:04:17.230
+As you can see, Copilot opens up
+
+85
+00:04:17.230 --> 00:04:18.770
+the chat panel
+because it doesn't
+
+86
+00:04:18.770 --> 00:04:20.630
+do a back and forth interaction.
+
+87
+00:04:20.630 --> 00:04:22.860
+It depends on the
+chat panel for that,
+
+88
+00:04:22.860 --> 00:04:24.950
+and it provides you
+with the explanation in
+
+89
+00:04:24.950 --> 00:04:26.350
+the chat panel in case you
+
+90
+00:04:26.350 --> 00:04:28.470
+want to ask any
+follow up questions.
+
+91
+00:04:28.470 --> 00:04:30.710
+One limitation of inline chat
+
+92
+00:04:30.710 --> 00:04:33.110
+is the lack of back
+and forth interaction.
+
+93
+00:04:33.110 --> 00:04:36.675
+Regardless, it's one of the
+features I use the most.
+
+94
+00:04:36.675 --> 00:04:39.750
+Great job. It should
+now be easy for
+
+95
+00:04:39.750 --> 00:04:43.390
+you to get suggestions
+using inline chat.

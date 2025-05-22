@@ -1,0 +1,599 @@
+WEBVTT
+
+1
+00:00:07.730 --> 00:00:11.520
+Think of yourself as
+a developer who can
+
+2
+00:00:11.520 --> 00:00:14.440
+effortlessly switch between
+programming languages
+
+3
+00:00:14.440 --> 00:00:16.180
+without having to break a sweat.
+
+4
+00:00:16.180 --> 00:00:18.840
+That seems too good
+to be true, right?
+
+5
+00:00:18.840 --> 00:00:21.060
+What if I told you
+that there are
+
+6
+00:00:21.060 --> 00:00:23.760
+AI-powered tools
+that can understand
+
+7
+00:00:23.760 --> 00:00:26.180
+and translate code as if it were
+
+8
+00:00:26.180 --> 00:00:29.005
+a fluent speaker of
+multiple languages.
+
+9
+00:00:29.005 --> 00:00:31.620
+This is actually a possibility,
+
+10
+00:00:31.620 --> 00:00:35.515
+making it easier for you to
+work with diverse codebases.
+
+11
+00:00:35.515 --> 00:00:37.580
+We are now entering the era of
+
+12
+00:00:37.580 --> 00:00:41.160
+generative AI and code
+comprehension and translation.
+
+13
+00:00:41.160 --> 00:00:43.020
+By the end of this video,
+
+14
+00:00:43.020 --> 00:00:46.920
+you will understand how
+generative AI aids in translating
+
+15
+00:00:46.920 --> 00:00:49.720
+code between different
+programming languages,
+
+16
+00:00:49.720 --> 00:00:51.800
+enhancing interoperability;
+
+17
+00:00:51.800 --> 00:00:55.000
+in other words, the ability
+of computer systems or
+
+18
+00:00:55.000 --> 00:00:58.960
+software to exchange and
+make use of information.
+
+19
+00:00:58.960 --> 00:01:02.460
+You'll also learn how to
+apply these AI tools to
+
+20
+00:01:02.460 --> 00:01:06.425
+effectively comprehend and
+work with diverse codebases.
+
+21
+00:01:06.425 --> 00:01:10.550
+Now, how does generative AI
+apply to code translation?
+
+22
+00:01:10.550 --> 00:01:13.950
+Generative AI models are
+trained on large datasets
+
+23
+00:01:13.950 --> 00:01:17.510
+containing code written in
+various programming languages.
+
+24
+00:01:17.510 --> 00:01:20.850
+They learn the rules and
+structures of these languages,
+
+25
+00:01:20.850 --> 00:01:23.490
+including syntax, how
+the code is written,
+
+26
+00:01:23.490 --> 00:01:25.990
+and semantics—what
+the code does.
+
+27
+00:01:25.990 --> 00:01:28.850
+With this knowledge,
+the AI can accurately
+
+28
+00:01:28.850 --> 00:01:32.150
+interpret the purpose and
+function of the original code
+
+29
+00:01:32.150 --> 00:01:35.230
+and effectively rewrite
+the original code and
+
+30
+00:01:35.230 --> 00:01:37.110
+any other programming languages
+
+31
+00:01:37.110 --> 00:01:38.905
+on which it has been trained.
+
+32
+00:01:38.905 --> 00:01:42.240
+You may be asking, why
+is this important?
+
+33
+00:01:42.240 --> 00:01:45.360
+The primary challenge
+developers face is
+
+34
+00:01:45.360 --> 00:01:48.580
+working with codebases written
+in multiple languages.
+
+35
+00:01:48.580 --> 00:01:50.760
+For example, a project
+
+36
+00:01:50.760 --> 00:01:52.840
+might have its front-end
+in JavaScript,
+
+37
+00:01:52.840 --> 00:01:56.360
+back-end in Python, and
+some scripts in Ruby.
+
+38
+00:01:56.360 --> 00:01:59.200
+Generative AI can
+bridge these gaps by
+
+39
+00:01:59.200 --> 00:02:02.700
+translating and making sense
+of these diverse languages,
+
+40
+00:02:02.700 --> 00:02:05.560
+boosting productivity
+and collaboration.
+
+41
+00:02:05.560 --> 00:02:08.500
+Well, how does it
+work? When you input
+
+42
+00:02:08.500 --> 00:02:11.340
+a piece of code into
+generative AI models,
+
+43
+00:02:11.340 --> 00:02:13.700
+these models translate using
+
+44
+00:02:13.700 --> 00:02:17.070
+their previously learned
+structures of other languages.
+
+45
+00:02:17.070 --> 00:02:19.080
+This is done to maintain
+
+46
+00:02:19.080 --> 00:02:22.840
+functionality of the original
+code that was inputted.
+
+47
+00:02:22.840 --> 00:02:25.220
+This saves time and reduces
+
+48
+00:02:25.220 --> 00:02:28.475
+the risk of human error
+and manual translation.
+
+49
+00:02:28.475 --> 00:02:31.740
+When integrating a Python-based
+machine learning model
+
+50
+00:02:31.740 --> 00:02:33.930
+into a JavaScript-heavy
+web application,
+
+51
+00:02:33.930 --> 00:02:36.240
+for example, manual translation
+
+52
+00:02:36.240 --> 00:02:38.670
+can be tedious and error-prone.
+
+53
+00:02:38.670 --> 00:02:41.720
+Generative AI can handle
+this task swiftly,
+
+54
+00:02:41.720 --> 00:02:43.720
+ensuring accurate translation of
+
+55
+00:02:43.720 --> 00:02:49.100
+complex logic and algorithms.
+How do you do this?
+
+56
+00:02:49.580 --> 00:02:52.380
+Using a generative AI tool,
+
+57
+00:02:52.380 --> 00:02:54.000
+this Python example can be
+
+58
+00:02:54.000 --> 00:02:56.810
+translated into
+the language Rust.
+
+59
+00:02:59.090 --> 00:03:01.490
+I've entered the
+following prompt
+
+60
+00:03:01.490 --> 00:03:03.350
+into Microsoft Copilot's chat,
+
+61
+00:03:03.350 --> 00:03:04.930
+and here's the response.
+
+62
+00:03:04.930 --> 00:03:08.465
+Note that Copilot can
+translate the code into Rust.
+
+63
+00:03:08.465 --> 00:03:12.230
+This example showcases how
+seamlessly AI can handle
+
+64
+00:03:12.230 --> 00:03:14.250
+code translation
+when maintaining
+
+65
+00:03:14.250 --> 00:03:16.205
+the integrity of the logic.
+
+66
+00:03:16.205 --> 00:03:17.760
+Beyond translation,
+
+67
+00:03:17.760 --> 00:03:21.330
+generative AI also enhances
+code comprehension.
+
+68
+00:03:21.330 --> 00:03:24.270
+AI models can generate
+documentation,
+
+69
+00:03:24.270 --> 00:03:28.530
+comments, and explanations
+for complex code segments.
+
+70
+00:03:28.530 --> 00:03:30.530
+But why does this matter?
+
+71
+00:03:30.530 --> 00:03:32.710
+Understanding legacy code or
+
+72
+00:03:32.710 --> 00:03:35.010
+someone else's code
+can be daunting.
+
+73
+00:03:35.010 --> 00:03:38.850
+Poor documentation often
+exacerbates the problem.
+
+74
+00:03:38.850 --> 00:03:42.330
+AI can generate meaningful
+comments and documentation,
+
+75
+00:03:42.330 --> 00:03:44.110
+making it easier to grasp
+
+76
+00:03:44.110 --> 00:03:46.725
+the code's functionality
+and structure.
+
+77
+00:03:46.725 --> 00:03:49.290
+How do you apply this?
+
+78
+00:03:49.290 --> 00:03:52.065
+AI tools like Microsoft Copilot
+
+79
+00:03:52.065 --> 00:03:55.170
+can analyze code and
+provide explanations.
+
+80
+00:03:55.170 --> 00:03:58.990
+For example, feeding a
+piece of complex code into
+
+81
+00:03:58.990 --> 00:04:03.690
+an AI model can yield a
+human-readable explanation.
+
+82
+00:04:03.690 --> 00:04:07.080
+Here is the AI-generated
+explanation.
+
+83
+00:04:07.080 --> 00:04:09.030
+The QuickSort
+algorithm efficiently
+
+84
+00:04:09.030 --> 00:04:11.830
+sorts an array using
+divide and conquer.
+
+85
+00:04:11.830 --> 00:04:13.750
+It partitions the array around
+
+86
+00:04:13.750 --> 00:04:17.230
+a pivot and recursively
+sorts the partitions.
+
+87
+00:04:17.230 --> 00:04:20.550
+This is how AI
+computes this result:
+
+88
+00:04:20.550 --> 00:04:24.480
+Input code: Snippet of
+code in any language.
+
+89
+00:04:24.480 --> 00:04:27.370
+Code pre-processing: Cleans code,
+
+90
+00:04:27.370 --> 00:04:30.825
+handles comments,
+removes white spaces.
+
+91
+00:04:30.825 --> 00:04:33.995
+Syntax analysis: Examines code
+
+92
+00:04:33.995 --> 00:04:36.350
+to understand structure
+and generates
+
+93
+00:04:36.350 --> 00:04:39.470
+some representation,
+whether hierarchical, in
+
+94
+00:04:39.470 --> 00:04:41.630
+an abstract syntax tree or
+
+95
+00:04:41.630 --> 00:04:43.490
+some other type to capture
+
+96
+00:04:43.490 --> 00:04:45.870
+relationships between
+code elements.
+
+97
+00:04:45.870 --> 00:04:50.090
+Semantic analysis:
+Resolves variable types,
+
+98
+00:04:50.090 --> 00:04:54.105
+calls, and control flow to
+understand functionality.
+
+99
+00:04:54.105 --> 00:04:56.590
+Code segmentation: Breaking down
+
+100
+00:04:56.590 --> 00:04:59.390
+the code into smaller,
+manageable components.
+
+101
+00:04:59.390 --> 00:05:03.855
+Context: Understanding
+context of each code segment.
+
+102
+00:05:03.855 --> 00:05:06.050
+Natural language generation:
+
+103
+00:05:06.050 --> 00:05:09.160
+Generating descriptive
+text for each segment.
+
+104
+00:05:09.160 --> 00:05:11.170
+Plaintext aggregation:
+
+105
+00:05:11.170 --> 00:05:13.870
+Combining all generative
+descriptions of
+
+106
+00:05:13.870 --> 00:05:16.975
+a separate code block into
+coherent text output.
+
+107
+00:05:16.975 --> 00:05:19.610
+Output of the plain
+text explanation.
+
+108
+00:05:19.610 --> 00:05:22.930
+This process can be
+invaluable for onboarding
+
+109
+00:05:22.930 --> 00:05:27.090
+new developers or maintaining
+a large, complex codebase.
+
+110
+00:05:27.090 --> 00:05:29.450
+Generative AI transforms the way
+
+111
+00:05:29.450 --> 00:05:31.170
+developers work with code,
+
+112
+00:05:31.170 --> 00:05:33.350
+making it easier to
+translate between
+
+113
+00:05:33.350 --> 00:05:35.010
+programming languages and to
+
+114
+00:05:35.010 --> 00:05:37.825
+comprehend complex codebases.
+
+115
+00:05:37.825 --> 00:05:39.915
+By leveraging these AI tools,
+
+116
+00:05:39.915 --> 00:05:42.300
+you can enhance
+interoperability and
+
+117
+00:05:42.300 --> 00:05:45.360
+productivity in your
+development projects.
+
+118
+00:05:45.360 --> 00:05:47.680
+In this video, we learned how
+
+119
+00:05:47.680 --> 00:05:50.020
+to translate between
+programming languages,
+
+120
+00:05:50.020 --> 00:05:53.105
+learned how to comprehend
+complex codebases,
+
+121
+00:05:53.105 --> 00:05:54.860
+and understood that this can
+
+122
+00:05:54.860 --> 00:05:57.805
+enhance productivity in
+your development projects.
+
+123
+00:05:57.805 --> 00:06:01.600
+Start integrating generative
+AI tools into your workflow,
+
+124
+00:06:01.600 --> 00:06:03.900
+experiment with
+translating code between
+
+125
+00:06:03.900 --> 00:06:07.500
+languages and generating
+documentation for your projects.
+
+126
+00:06:07.500 --> 00:06:11.140
+You will now have the skills
+to harness AI to simplify
+
+127
+00:06:11.140 --> 00:06:12.900
+your development process and
+
+128
+00:06:12.900 --> 00:06:15.800
+open up new coding
+possibilities.
