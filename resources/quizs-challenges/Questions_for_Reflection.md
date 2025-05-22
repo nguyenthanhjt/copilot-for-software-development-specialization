@@ -40,3 +40,12 @@
 - [ ] False
 
 > GitHub Copilot Agents are specialized extensions that enhance the capabilities of LLMs by integrating with AI, backend services, and domain-specific tools. They enable more comprehensive and accurate answers to user queries, including questions about code workspaces or external documentation.  
+
+## How does GitHub Copilot enhance the coding workflow for developers through its basic code suggestion feature?
+
+- [ ] By eliminating the necessity for manual code review processes.
+- [x] By automating the generation of routine code snippets, thereby accelerating development tasks.
+- [ ] By fostering a dependency on automated tools, reducing the need to understand underlying code logic.
+- [ ] By introducing more complex coding paradigms that require advanced understanding.
+
+> GitHub Copilot's basic code suggestion feature is a powerful tool for automating routine coding tasks, thus accelerating the development process and allowing more time for tackling complex problems.
